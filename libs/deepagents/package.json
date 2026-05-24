@@ -1,6 +1,7 @@
 {
-  "name": "deepagents",
+  "name": "@anouar-bm/deepagents",
   "version": "1.10.2",
+  "private": false,
   "description": "Deep Agents - a library for building controllable AI agents with LangGraph",
   "main": "./dist/index.cjs",
   "module": "./dist/index.js",
